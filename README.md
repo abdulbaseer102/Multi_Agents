@@ -104,5 +104,5 @@ This project is licensed under the MIT License.
 - **Abdul Baseer** - Developer
 
 ## Contact
-For any queries or issues, feel free to reach out via **[your email or GitHub issues](https://github.com/yourusername/multi-agent-system/issues)**.
+For any queries or issues, feel free to reach out via **baseek8@gmail.com**.
 
