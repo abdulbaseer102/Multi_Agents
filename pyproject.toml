@@ -1,0 +1,23 @@
+[project]
+name = "multiagent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "abdulbaseer102", email = "147842675+abdulbaseer102@users.noreply.github.com" }
+]
+requires-python = ">=3.10"
+dependencies = [
+    "chainlit>=2.4.1",
+    "dotenv>=0.9.9",
+    "openai>=1.66.5",
+    "openai-agents>=0.0.4",
+    "typing>=3.10.0.0",
+]
+
+[project.scripts]
+multiagent = "multiagent:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
